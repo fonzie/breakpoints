@@ -1,0 +1,14 @@
+{
+  "name": "breakpoints",
+  "repo": "fonzie/breakpoints",
+  "remotes": ["http://fonzie.herokuapp.com/packages"],
+  "description": "Helpers for creating media queries",
+  "author": "Anthony Short",
+  "main": "breakpoints.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "license": "MIT",
+  "files": [
+    "breakpoints.scss"
+  ]
+}
